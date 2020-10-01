@@ -1,3 +1,6 @@
 # BigData
 
-Homeworks and Projects for CS 644: Introduction to Big Data
+Homeworks and Projects in the NJIT CS 644 Introdution to Big Data Course. 
+
+### HW2
+Given a set of poker cards, find missing cards in the deck using Hadoop - MapReduce.
